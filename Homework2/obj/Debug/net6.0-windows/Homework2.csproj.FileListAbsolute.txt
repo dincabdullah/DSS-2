@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\homework_dds2\Homework2\Homework2\bin\Debug\net6.0-windows\Homework2.exe
+C:\Users\user\Desktop\homework_dds2\Homework2\Homework2\bin\Debug\net6.0-windows\Homework2.deps.json
+C:\Users\user\Desktop\homework_dds2\Homework2\Homework2\bin\Debug\net6.0-windows\Homework2.runtimeconfig.json
+C:\Users\user\Desktop\homework_dds2\Homework2\Homework2\bin\Debug\net6.0-windows\Homework2.dll
+C:\Users\user\Desktop\homework_dds2\Homework2\Homework2\bin\Debug\net6.0-windows\Homework2.pdb
+C:\Users\user\Desktop\homework_dds2\Homework2\Homework2\obj\Debug\net6.0-windows\Homework2.Form1.resources
+C:\Users\user\Desktop\homework_dds2\Homework2\Homework2\obj\Debug\net6.0-windows\Homework2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\homework_dds2\Homework2\Homework2\obj\Debug\net6.0-windows\Homework2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\homework_dds2\Homework2\Homework2\obj\Debug\net6.0-windows\Homework2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\homework_dds2\Homework2\Homework2\obj\Debug\net6.0-windows\Homework2.AssemblyInfo.cs
+C:\Users\user\Desktop\homework_dds2\Homework2\Homework2\obj\Debug\net6.0-windows\Homework2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\homework_dds2\Homework2\Homework2\obj\Debug\net6.0-windows\Homework2.dll
+C:\Users\user\Desktop\homework_dds2\Homework2\Homework2\obj\Debug\net6.0-windows\refint\Homework2.dll
+C:\Users\user\Desktop\homework_dds2\Homework2\Homework2\obj\Debug\net6.0-windows\Homework2.pdb
+C:\Users\user\Desktop\homework_dds2\Homework2\Homework2\obj\Debug\net6.0-windows\Homework2.genruntimeconfig.cache
+C:\Users\user\Desktop\homework_dds2\Homework2\Homework2\obj\Debug\net6.0-windows\ref\Homework2.dll
